@@ -1,6 +1,3 @@
-import { Button } from "@/components/ui/button"
-import { Card, CardContent } from "@/components/ui/card"
-import { ArrowRight, Code2, Download, Link2, QrCode, Smartphone, Zap } from "lucide-react"
 import QRGenerator from "./qr-generator"
 
 export default function Page() {
